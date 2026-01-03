@@ -5,20 +5,20 @@ theme = "catppuccin-mocha.conf"
 # font-family-italic = "VictorMono Nerd Font"
 # font-family-bold-italic = "VictorMono Nerd Font"
 
-font-family = "Monaspace Neon"
-font-style = "Regular"
+font-family = "Maple Mono NF"
+font-style = "Thin"
 # font-style = "ExtraLight"
 
-font-family-bold = "Monaspace Krypton"
-font-style-bold = "Regular"
+font-family-bold = "Maple Mono NF"
+font-style-bold = "Light"
 # font-style-bold = "Light"
 
-font-family-italic = "Monaspace Radon"
-font-style-italic = "Reguar"
+font-family-italic = "Maple Mono NF"
+font-style-italic = "Thin Italic"
 # font-style-italic = "ExtraLight"
 
-font-family-bold-italic = "Monaspace Radon"
-font-style-bold-italic = "Medium"
+font-family-bold-italic = "Maple Mono NF"
+font-style-bold-italic = "Light Italic"
 # font-style-bold-italic = "Light"
 
 font-size = 20
