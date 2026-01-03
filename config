@@ -1,0 +1,32 @@
+theme = "catppuccin-mocha.conf"
+# font-family = "JetBrainsMono Nerd Font"
+# font-family = "Iosevka Nerd Font"
+# font-family-bold = "VictorMono Nerd Font"
+# font-family-italic = "VictorMono Nerd Font"
+# font-family-bold-italic = "VictorMono Nerd Font"
+
+font-family = "Monaspace Neon"
+font-style = "Regular"
+# font-style = "ExtraLight"
+
+font-family-bold = "Monaspace Krypton"
+font-style-bold = "Regular"
+# font-style-bold = "Light"
+
+font-family-italic = "Monaspace Radon"
+font-style-italic = "Reguar"
+# font-style-italic = "ExtraLight"
+
+font-family-bold-italic = "Monaspace Radon"
+font-style-bold-italic = "Medium"
+# font-style-bold-italic = "Light"
+
+font-size = 20
+font-thicken = true
+macos-option-as-alt = true
+shell-integration = fish
+shell-integration-features = no-cursor,sudo,ssh-terminfo,ssh-env
+keybind = ¥=text:\\
+cursor-style = block_hollow
+
+adjust-cell-height = 30%
