@@ -5,28 +5,40 @@ theme = "catppuccin-mocha.conf"
 # font-family-italic = "VictorMono Nerd Font"
 # font-family-bold-italic = "VictorMono Nerd Font"
 
-font-family = "Maple Mono NF"
-font-style = "Thin"
-# font-style = "ExtraLight"
+font-family = "FiraCode Nerd Font Mono"
+font-style = "Retina"
 
-font-family-bold = "Maple Mono NF"
-font-style-bold = "Light"
-# font-style-bold = "Light"
+# font-family = "IosevkaTerm Nerd Font Mono"
+# font-style = "Light"
 
-font-family-italic = "Maple Mono NF"
-font-style-italic = "Thin Italic"
-# font-style-italic = "ExtraLight"
+font-family-bold = "FiraCode Nerd Font Mono"
+font-style-bold = "Medium"
 
-font-family-bold-italic = "Maple Mono NF"
-font-style-bold-italic = "Light Italic"
-# font-style-bold-italic = "Light"
+# font-family-bold = "IosevkaTerm Nerd Font Mono"
+# font-style-bold = "Medium"
 
-font-size = 20
+font-family-italic = "FiraCode Nerd Font Mono"
+font-style-italic = "Light"
+
+# font-family-italic = "IosevkaTerm Nerd Font Mono"
+# font-style-italic = "Light"
+
+font-family-italic = "FiraCode Nerd Font Mono"
+font-style-italic = "SemiBold"
+
+# font-family-bold-italic = "IosevkaTerm Nerd Font Mono"
+# font-style-bold-italic = "Bold"
+
+font-size = 18
 font-thicken = true
 macos-option-as-alt = true
 shell-integration = fish
 shell-integration-features = no-cursor,sudo,ssh-terminfo,ssh-env
 keybind = ¥=text:\\
+keybind=cmd+s=text::w\x0d
 cursor-style = block_hollow
 
-adjust-cell-height = 30%
+adjust-cell-height = 40%
+
+custom-shader = shaders/cursor_warp.glsl
+custom-shader = shaders/ripple_cursor.glsl
