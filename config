@@ -37,8 +37,8 @@ shell-integration-features = no-cursor,sudo,ssh-terminfo,ssh-env
 keybind = ¥=text:\\
 keybind=cmd+s=text::w\x0d
 cursor-style = block_hollow
-
 adjust-cell-height = 40%
+background-opacity = 0.85
 
-custom-shader = shaders/cursor_warp.glsl
-custom-shader = shaders/ripple_cursor.glsl
+# custom-shader = shaders/cursor_warp.glsl
+# custom-shader = shaders/ripple_cursor.glsl
