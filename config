@@ -1,36 +1,52 @@
 theme = "catppuccin-mocha.conf"
-# font-family = "JetBrainsMono Nerd Font"
-# font-family = "Iosevka Nerd Font"
-# font-family-bold = "VictorMono Nerd Font"
-# font-family-italic = "VictorMono Nerd Font"
-# font-family-bold-italic = "VictorMono Nerd Font"
 
-font-family = "FiraCode Nerd Font Mono"
-font-style = "Retina"
-
-# font-family = "IosevkaTerm Nerd Font Mono"
-# font-style = "Light"
-
-font-family-bold = "FiraCode Nerd Font Mono"
+font-family = "IosevkaTerm Nerd Font Mono"
+font-style = "Regular"
+font-family-bold = "IosevkaTerm Nerd Font Mono"
 font-style-bold = "Medium"
+font-family-italic = "IosevkaTerm Nerd Font Mono"
+font-style-italic = "Italic"
+font-family-bold-italic = "IosevkaTerm Nerd Font Mono"
+font-style-bold-italic = "Medium Italic"
 
-# font-family-bold = "IosevkaTerm Nerd Font Mono"
-# font-style-bold = "Medium"
+# font-family = "Hack Nerd Font Mono"
+# font-style = "Regular"
+# font-family = "JetBrainsMono Nerd Font Mono"
+# font-style = "Regular"
+# font-family = "FiraCode Nerd Font Mono"
+# font-style = "Regular"
 
-font-family-italic = "FiraCode Nerd Font Mono"
-font-style-italic = "Light"
+# font-family-bold = "Hack Nerd Font Mono"
+# font-style-bold = "Bold"
+# font-family = "JetBrainsMono Nerd Font Mono"
+# font-style = "Medium"
+# font-family-bold = "FiraCode Nerd Font Mono"
+# font-style-bold = "Retina"
+# font-family-bold = "Monaspace Radon"
+# font-style-bold = "Light"
 
-# font-family-italic = "IosevkaTerm Nerd Font Mono"
-# font-style-italic = "Light"
+# font-family-italic = "Hack Nerd Font Mono"
+# font-style-italic = "Italic"
+# font-family-italic = "JetBrainsMono Nerd Font Mono"
+# font-style-italic = "Italic"
+# font-family-italic = "FiraCode Nerd Font Mono"
+# font-style-italic = "Regular"
+# font-family-italic = "VictorMono Nerd Font Mono"
+# font-style-italic = "Medium Italic"
 
-font-family-italic = "FiraCode Nerd Font Mono"
-font-style-italic = "SemiBold"
+# font-family-bold-italic = "Hack Nerd Font Mono"
+# font-style-bold-italic = "Bold Italic"
+# font-family = "JetBrainsMono Nerd Font Mono"
+# font-style = "Medium Italic"
+# font-family-italic = "FiraCode Nerd Font Mono"
+# font-style-italic = "Retina"
+# font-family-bold-italic = "VictorMono Nerd Font Mono"
+# font-style-bold-italic = "Light"
+# font-family-bold = "Monaspace Radon"
+# font-style-bold = "Medium Italic"
 
-# font-family-bold-italic = "IosevkaTerm Nerd Font Mono"
-# font-style-bold-italic = "Bold"
-
-font-size = 18
-font-thicken = true
+font-size = 22
+font-thicken = false
 macos-option-as-alt = true
 shell-integration = fish
 shell-integration-features = no-cursor,sudo,ssh-terminfo,ssh-env
@@ -38,7 +54,7 @@ keybind = ¥=text:\\
 keybind=cmd+s=text::w\x0d
 cursor-style = block_hollow
 adjust-cell-height = 40%
-background-opacity = 0.85
+background-opacity = 0.90
 
 # custom-shader = shaders/cursor_warp.glsl
 # custom-shader = shaders/ripple_cursor.glsl
